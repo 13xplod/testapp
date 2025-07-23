@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string-array name="serbiaCities">
+        <item>Belgrade</item>
+        <item>Bor</item>
+        <item>Cacak</item>
+        <item>Jagodina</item>
+        <item>Kikinda</item>
+        <item>Kraljevo</item>
+        <item>Kragujevac</item>
+        <item>Krusevac</item>
+        <item>Leskovac</item>
+        <item>Loznica</item>
+        <item>Novi Pazar</item>
+        <item>Novi Sad</item>
+        <item>Nis</item>
+        <item>Pancevo</item>
+        <item>Pirot</item>
+        <item>Pozarevac</item>
+        <item>Prokuplje</item>
+        <item>Smederevo</item>
+        <item>Sombor</item>
+        <item>Sremska Mitrovica</item>
+        <item>Subotica</item>
+        <item>Sabac</item>
+        <item>Uzice</item>
+        <item>Valjevo</item>
+        <item>Vranje</item>
+        <item>Vrsac</item>
+        <item>Zajecar</item>
+        <item>Zrenjanin</item>
+    </string-array>
+
+    <string-array name="regNumber">
+        <item>BG</item>
+        <item>BO</item>
+        <item>CA</item>
+        <item>JA</item>
+        <item>KI</item>
+        <item>KV</item>
+        <item>KG</item>
+        <item>KS</item>
+        <item>LE</item>
+        <item>LO</item>
+        <item>NP</item>
+        <item>NS</item>
+        <item>NI</item>
+        <item>PA</item>
+        <item>PI</item>
+        <item>PO</item>
+        <item>PK</item>
+        <item>SD</item>
+        <item>SO</item>
+        <item>SM</item>
+        <item>SU</item>
+        <item>SA</item>
+        <item>UZ</item>
+        <item>VA</item>
+        <item>VR</item>
+        <item>VS</item>
+        <item>ZA</item>
+        <item>ZR</item>
+    </string-array>
+
+</resources>
